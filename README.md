@@ -1,5 +1,5 @@
 # EMU-Launcher
-Emulator Luncher using [Retroarch](https://www.retroarch.com/ "Retroarch") cores for Steam.
+Emulator Luncher using [Retroarch](https://www.retroarch.com/ "Retroarch") cores for [Steam](https://store.steampowered.com/ "Steam").
 
 ## About
 This script as executable file is useful for run into Steam each game emulated with Retroarch cores.
